@@ -1,6 +1,8 @@
 /*--------------------------- Color variations ----------------------*/
 /*--------------------------- Fonts ----------------------*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:500,700|Roboto:400,500");
+@import url("https://fonts.googleapis.com/css2?family=Michroma&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbit&display=swap");
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
 /* Mobile Layout: 320px */
@@ -73,6 +75,10 @@ html {
 }
 .section-title p {
     margin-bottom: 0;
+    font-family: "Orbit", sans-serif;
+}
+p {
+    font-family: "Orbit", sans-serif;
 }
 
 /* Start Gradient Area css
@@ -167,7 +173,7 @@ html {
 body {
     line-height: 24px;
     font-size: 14px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Orbit", sans-serif;
     font-weight: 400;
     color: #777777;
     background: #fff;
@@ -187,10 +193,8 @@ ul {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
-    font-family: "Poppins", sans-serif;
+h5 {
+    font-family: "Michroma", sans-serif;
     color: #8e54e9;
     font-weight: 500;
     line-height: 1.2 !important;
@@ -204,6 +208,7 @@ h6 {
 
 a {
     text-decoration: none;
+    font-family: "Michroma", sans-serif;
     transition: all 0.3s ease-in-out;
 }
 a:hover,
@@ -237,6 +242,7 @@ sub,
 u,
 del {
     color: #8e54e9;
+    font-family: "Orbit", sans-serif;
 }
 
 h1 {
@@ -1303,9 +1309,10 @@ h6 {
     text-transform: uppercase;
     padding: 0px;
     display: inline-block;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 500;
-    color: #222222;
+    color: #8e54e9;
+    text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3), 1px 1px 0px black;
 }
 @media (min-width: 991px) {
     .header_area .navbar .nav .nav-item .nav-link {
@@ -1576,7 +1583,7 @@ h6 {
 .banner-area .banner-content p {
     margin: 0;
     color: white;
-    text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3), 1px 1px 0px #8E54E9 ;
+    text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3), 1px 1px 0px #8e54e9;
 }
 @media (max-width: 991px) {
     .banner-area .banner-img {

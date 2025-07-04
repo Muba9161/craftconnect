@@ -11,7 +11,7 @@
                     <div class="active-banner-slider owl-carousel">
                         <!-- single-slide -->
                         <div class="row single-slide align-items-center d-flex justify-content-center text-center">
-                            <div class="col-lg-8 col-md-8">
+                            <div class="col-lg-10 col-md-10">
                                 <div class="banner-content">
                                     <h1>Collaborate &<br>Build Together!</h1>
                                     <p>Join a vibrant community of creators and innovators. Contribute to real-world
@@ -32,7 +32,7 @@
                         </div>
                         <!-- single-slide -->
                         <div class="row single-slide align-items-center d-flex justify-content-center text-center">
-                            <div class="col-lg-8 col-md-8">
+                            <div class="col-lg-10 col-md-10">
                                 <div class="banner-content">
                                     <h1>Turn Ideas Into<br>Impactful Projects!</h1>
                                     <p>Ready to level up your skills? Team up with like-minded creators, contribute to
@@ -68,7 +68,7 @@
                         <div class="f-icon">
                             <img src="../assets/frontend/img/features/f-icon1.png" alt="">
                         </div>
-                        <h6>Free Delivery</h6>
+                        <h5>Free Delivery</h5>
                         <p>Free Shipping on all order</p>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                         <div class="f-icon">
                             <img src="../assets/frontend/img/features/f-icon2.png" alt="">
                         </div>
-                        <h6>Return Policy</h6>
+                        <h5>Return Policy</h5>
                         <p>Free Shipping on all order</p>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                         <div class="f-icon">
                             <img src="../assets/frontend/img/features/f-icon3.png" alt="">
                         </div>
-                        <h6>24/7 Support</h6>
+                        <h5>24/7 Support</h5>
                         <p>Free Shipping on all order</p>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         <div class="f-icon">
                             <img src="../assets/frontend/img/features/f-icon4.png" alt="">
                         </div>
-                        <h6>Secure Payment</h6>
+                        <h5>Secure Payment</h5>
                         <p>Free Shipping on all order</p>
                     </div>
                 </div>
