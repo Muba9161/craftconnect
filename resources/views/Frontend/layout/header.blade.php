@@ -16,9 +16,6 @@
     <meta charset="UTF-8">
     <!-- Site Title -->
     <title>CraftConnect</title>
-    <!--
-  CSS
-  ============================================= -->
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/linearicons.css') }}">
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/font-awesome.min.css') }}">
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/themify-icons.css') }}">
@@ -30,6 +27,8 @@
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/ion.rangeSlider.skinFlat.css') }}" />
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/magnific-popup.css') }}">
     <link rel="stylesheet" href="{{ asset('../assets/frontend/css/main.css') }}">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
 <body>

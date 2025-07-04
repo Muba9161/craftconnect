@@ -10,46 +10,46 @@
                 <div class="col-lg-12">
                     <div class="active-banner-slider owl-carousel">
                         <!-- single-slide -->
-                        <div class="row single-slide align-items-center d-flex">
-                            <div class="col-lg-5 col-md-6">
+                        <div class="row single-slide align-items-center d-flex justify-content-center text-center">
+                            <div class="col-lg-8 col-md-8">
                                 <div class="banner-content">
-                                    <h1>Nike New <br>Collection!</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                        incididunt ut labore et
-                                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-                                    <div class="add-bag d-flex align-items-center">
-                                        <a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
-                                        <span class="add-text text-uppercase">Add to Bag</span>
+                                    <h1>Collaborate &<br>Build Together!</h1>
+                                    <p>Join a vibrant community of creators and innovators. Contribute to real-world
+                                        projects, sharpen your skills,
+                                        and grow through hands-on collaboration with peers and mentors.</p>
+                                    <div class="add-bag d-flex align-items-center justify-content-center">
+                                        <a class="add-btn" href="#features"><span class="fas fa-arrow-down"></span></a>
+                                        <span class="add-text text-uppercase">Scroll Down</span>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-7">
+                            {{-- <div class="col-lg-7">
                                 <div class="banner-img">
                                     <img class="img-fluid" src="../assets/frontend/img/banner/banner-img.png"
                                         alt="">
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <!-- single-slide -->
-                        <div class="row single-slide">
-                            <div class="col-lg-5">
+                        <div class="row single-slide align-items-center d-flex justify-content-center text-center">
+                            <div class="col-lg-8 col-md-8">
                                 <div class="banner-content">
-                                    <h1>Nike New <br>Collection!</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                        incididunt ut labore et
-                                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-                                    <div class="add-bag d-flex align-items-center">
-                                        <a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
-                                        <span class="add-text text-uppercase">Add to Bag</span>
+                                    <h1>Turn Ideas Into<br>Impactful Projects!</h1>
+                                    <p>Ready to level up your skills? Team up with like-minded creators, contribute to
+                                        exciting projects, and build a portfolio that stands out all while making a real difference.</p>
+                                    <div class="add-bag d-flex align-items-center justify-content-center">
+                                        <a class="add-btn" href="#projects"><span class="fas fa-arrow-down"></span></a>
+                                        <span class="add-text text-uppercase">Start Building</span>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-7">
+
+                            {{-- <div class="col-lg-7">
                                 <div class="banner-img">
                                     <img class="img-fluid" src="../assets/frontend/img/banner/banner-img.png"
                                         alt="">
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
     <!-- End banner Area -->
 
     <!-- start features Area -->
-    <section class="features-area section_gap">
+    <section class="features-area section_gap" id="features">
         <div class="container">
             <div class="row features-inner">
                 <!-- single features -->
@@ -119,7 +119,7 @@
                                 <img class="img-fluid w-100" src="../assets/frontend/img/category/c1.jpg" alt="">
                                 <a href="../assets/frontend/img/category/c1.jpg" class="img-pop-up" target="_blank">
                                     <div class="deal-details">
-                                        <h6 class="deal-title">Sneaker for Sports</h6>
+                                        <h6 class="deal-title">Featured Projects</h6>
                                     </div>
                                 </a>
                             </div>
@@ -130,7 +130,7 @@
                                 <img class="img-fluid w-100" src="../assets/frontend/img/category/c2.jpg" alt="">
                                 <a href="../assets/frontend/img/category/c2.jpg" class="img-pop-up" target="_blank">
                                     <div class="deal-details">
-                                        <h6 class="deal-title">Sneaker for Sports</h6>
+                                        <h6 class="deal-title">Top Companies</h6>
                                     </div>
                                 </a>
                             </div>
@@ -141,7 +141,7 @@
                                 <img class="img-fluid w-100" src="../assets/frontend/img/category/c3.jpg" alt="">
                                 <a href="../assets/frontend/img/category/c3.jpg" class="img-pop-up" target="_blank">
                                     <div class="deal-details">
-                                        <h6 class="deal-title">Product for Couple</h6>
+                                        <h6 class="deal-title">Projects</h6>
                                     </div>
                                 </a>
                             </div>
@@ -152,7 +152,7 @@
                                 <img class="img-fluid w-100" src="../assets/frontend/img/category/c4.jpg" alt="">
                                 <a href="../assets/frontend/img/category/c4.jpg" class="img-pop-up" target="_blank">
                                     <div class="deal-details">
-                                        <h6 class="deal-title">Sneaker for Sports</h6>
+                                        <h6 class="deal-title">Top Contributors</h6>
                                     </div>
                                 </a>
                             </div>
@@ -165,7 +165,7 @@
                         <img class="img-fluid w-100" src="../assets/frontend/img/category/c5.jpg" alt="">
                         <a href="../assets/frontend/img/category/c5.jpg" class="img-pop-up" target="_blank">
                             <div class="deal-details">
-                                <h6 class="deal-title">Sneaker for Sports</h6>
+                                <h6 class="deal-title">Top Hackathons</h6>
                             </div>
                         </a>
                     </div>
